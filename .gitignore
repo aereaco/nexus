@@ -1,0 +1,12 @@
+# Deno
+/deno.lock
+/dist/
+/node_modules/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

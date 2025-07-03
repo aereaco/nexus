@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nexus-shared
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nexus-shared
+  template:
+    metadata:
+      labels:
+        app: nexus-shared
+    spec:
+      containers:
+      - name: nexus-shared
+        image: nexus-shared:latest
+        ports:
+        - containerPort: 8080
