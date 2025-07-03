@@ -1,3 +1,3 @@
 # Nexus - UX
 
-This directory is a fork of Datastar for the interactivity and reactive frontend logic.
+This directory manages the interactivity layer that defines the dynamic "feel" and responsiveness of applications. It is based on a fork of Datastar.
