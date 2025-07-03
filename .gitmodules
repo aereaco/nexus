@@ -1,0 +1,15 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/aereaco/daisyui.git
+[submodule "ux"]
+	path = ux
+	url = https://github.com/aereaco/datastar.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/aereaco/cliffy.git
+[submodule "logic"]
+	path = logic
+	url = https://github.com/aereaco/Danet.git
+[submodule "app"]
+	path = app
+	url = https://github.com/aereaco/tauri.git
