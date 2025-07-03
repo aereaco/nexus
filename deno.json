@@ -1,0 +1,17 @@
+{
+  "workspaces": [
+    "app",
+    "cli",
+    "data",
+    "docs",
+    "logic",
+    "shared",
+    "ui",
+    "ux",
+    "web"
+  ],
+  "tasks": {
+    "lint": "deno lint",
+    "fmt": "deno fmt"
+  }
+}
