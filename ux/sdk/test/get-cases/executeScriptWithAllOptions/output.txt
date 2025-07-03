@@ -1,9 +1,0 @@
-event: datastar-execute-script
-id: event1
-retry: 2000
-data: attributes type text/javascript
-data: attributes blocking false
-data: autoRemove false
-data: script console.log('hello');
-
-

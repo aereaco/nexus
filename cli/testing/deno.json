@@ -1,5 +1,0 @@
-{
-  "name": "@cliffy/testing",
-  "version": "1.0.0-rc.8",
-  "exports": "./mod.ts"
-}
